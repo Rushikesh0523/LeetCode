@@ -12,6 +12,7 @@ class Solution {
             for (String a : ans) {
                 for (String b : s.split("")) {
                     t.add(a + b);
+         
                 }
             }
             ans = t;
