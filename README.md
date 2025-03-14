@@ -75,3 +75,15 @@ Feel free to contribute by submitting issues or pull requests if you have sugges
 ## ⭐ Acknowledgments
 
 This repository serves as a personal practice log and reference. It is continuously updated as I solve more problems on LeetCode. Special thanks to the LeetCode community for the amazing problem sets.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
