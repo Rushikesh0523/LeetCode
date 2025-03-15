@@ -82,8 +82,13 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
+| [2690-house-robber-iv](https://github.com/Rushikesh0523/LeetCode/tree/master/2690-house-robber-iv) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
+## Binary Search
+|  |
+| ------- |
+| [2690-house-robber-iv](https://github.com/Rushikesh0523/LeetCode/tree/master/2690-house-robber-iv) |
 <!---LeetCode Topics End-->
