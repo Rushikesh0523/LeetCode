@@ -93,4 +93,20 @@ This repository serves as a personal practice log and reference. It is continuou
 | ------- |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rushikesh0523/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rushikesh0523/LeetCode/tree/master/2690-house-robber-iv) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Graph
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
