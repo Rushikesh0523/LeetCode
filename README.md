@@ -83,6 +83,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rushikesh0523/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rushikesh0523/LeetCode/tree/master/2690-house-robber-iv) |
 ## Hash Table
@@ -98,6 +99,7 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Graph
 |  |
 | ------- |
