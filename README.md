@@ -91,6 +91,7 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,4 +126,20 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Depth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
