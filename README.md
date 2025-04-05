@@ -82,6 +82,7 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
+| [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Rushikesh0523/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -125,6 +126,7 @@ This repository serves as a personal practice log and reference. It is continuou
 ## Matrix
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Tree
 |  |
@@ -133,13 +135,19 @@ This repository serves as a personal practice log and reference. It is continuou
 ## Depth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Union Find
+|  |
+| ------- |
+| [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
 <!---LeetCode Topics End-->
