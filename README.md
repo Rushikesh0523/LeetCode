@@ -88,6 +88,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | [2665-minimum-time-to-repair-cars](https://github.com/Rushikesh0523/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Rushikesh0523/LeetCode/tree/master/2690-house-robber-iv) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rushikesh0523/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3429-special-array-i](https://github.com/Rushikesh0523/LeetCode/tree/master/3429-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
