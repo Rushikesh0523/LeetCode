@@ -90,11 +90,13 @@ This repository serves as a personal practice log and reference. It is continuou
 | [2690-house-robber-iv](https://github.com/Rushikesh0523/LeetCode/tree/master/2690-house-robber-iv) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rushikesh0523/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3429-special-array-i](https://github.com/Rushikesh0523/LeetCode/tree/master/3429-special-array-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rushikesh0523/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rushikesh0523/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
 | ------- |
