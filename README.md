@@ -108,6 +108,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Graph
 |  |
 | ------- |
@@ -125,6 +126,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -157,4 +159,8 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
+## String
+|  |
+| ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 <!---LeetCode Topics End-->
