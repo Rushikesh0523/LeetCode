@@ -109,6 +109,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Rushikesh0523/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Graph
 |  |
@@ -127,6 +128,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Sorting
@@ -173,4 +175,12 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Rushikesh0523/LeetCode/tree/master/2249-count-the-hidden-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
