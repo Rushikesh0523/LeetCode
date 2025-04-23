@@ -97,6 +97,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1500-count-largest-group](https://github.com/Rushikesh0523/LeetCode/tree/master/1500-count-largest-group) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rushikesh0523/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [1500-count-largest-group](https://github.com/Rushikesh0523/LeetCode/tree/master/1500-count-largest-group) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/Rushikesh0523/LeetCode/tree/master/2998-count-symmetric-integers) |
