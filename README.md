@@ -93,6 +93,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Rushikesh0523/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3429-special-array-i](https://github.com/Rushikesh0523/LeetCode/tree/master/3429-special-array-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rushikesh0523/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Rushikesh0523/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
