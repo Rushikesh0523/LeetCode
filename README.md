@@ -84,6 +84,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rushikesh0523/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/Rushikesh0523/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -99,6 +100,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | ------- |
 | [0001-two-sum](https://github.com/Rushikesh0523/LeetCode/tree/master/0001-two-sum) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rushikesh0523/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rushikesh0523/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Rushikesh0523/LeetCode/tree/master/1500-count-largest-group) |
 | [2915-count-of-interesting-subarrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Rushikesh0523/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -189,4 +191,8 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Rushikesh0523/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Rushikesh0523/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
