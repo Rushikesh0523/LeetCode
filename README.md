@@ -85,6 +85,7 @@ This repository serves as a personal practice log and reference. It is continuou
 | [0368-largest-divisible-subset](https://github.com/Rushikesh0523/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0854-making-a-large-island](https://github.com/Rushikesh0523/LeetCode/tree/master/0854-making-a-large-island) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rushikesh0523/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2048-build-array-from-permutation](https://github.com/Rushikesh0523/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Rushikesh0523/LeetCode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2249-count-the-hidden-sequences](https://github.com/Rushikesh0523/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/Rushikesh0523/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -195,4 +196,8 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Rushikesh0523/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Rushikesh0523/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
