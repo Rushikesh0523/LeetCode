@@ -200,4 +200,8 @@ This repository serves as a personal practice log and reference. It is continuou
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Rushikesh0523/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Rushikesh0523/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
