@@ -1,8 +1,17 @@
-# Write your MySQL query statement below
-SELECT
-    (
-        SELECT DISTINCT salary
-        FROM Employee
-        ORDER BY salary DESC
-        LIMIT 1, 1
-    ) AS SecondHighestSalary;
+/* Write your T-SQL query statement below */
+
+/*Select max(salary) as SecondHighestSalary
+from employee
+where salary not in (
+    select max(salary) from employee
+);*/
+
+with cte as(
+    select salary, Dense_rank()
+    over (order by salary desc) as rnk
+    from employee
+    
+)
+select max(salary) as SecondHighestSalary
+from cte 
+where rnk = 2;
